@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUDapp</string>
+    <string name="nameLabel">Name :</string>
+    <string name="ageLabel">Age :</string>
+    <string name="addButtonText">ADD</string>
+    <string name="updateButtonText">UPDATE</string>
+    <string name="deleteButtonText">DELETE</string>
+    <string name="viewButtonText">VIEW</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
