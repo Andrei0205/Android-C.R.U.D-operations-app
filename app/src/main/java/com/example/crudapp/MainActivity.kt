@@ -18,7 +18,7 @@ import com.example.crudapp.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
 }
-   /* private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityMainBinding
 
     private lateinit var SQLliteHelper: DataBaseHelper
     private var adapter: DataAdapter? = null
@@ -149,4 +149,3 @@ class MainActivity : AppCompatActivity() {
         inputMethodManager.hideSoftInputFromWindow(view.windowToken, 0)
     }
 }
-*/
